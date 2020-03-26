@@ -1,0 +1,277 @@
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Queues_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.queues_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_To_Queue_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assets_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.assets_list_ui.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Assets_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit_Queue.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Packages_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.package_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.robots_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Robot_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.run_action_bar.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jobs_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.jobs_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.schedule_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashscreen.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_small.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard_Panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.failed_transactions_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_medium.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Schedule.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_data_info.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\Dapper.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\Dapper.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_list.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_panel.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.queue_items.resources
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Source code\UiPath Dashboard\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.content_pop_up.resources
+D:\C#\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#\Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#\Main\WindowsFormsApp1\bin\Debug\Dapper.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\C#\Main\WindowsFormsApp1\bin\Debug\Dapper.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Main\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\C#\Main\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.content_pop_up.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.queue_items.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.failed_transactions_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_medium.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_data_info.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.jobs_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_small.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.robots_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.schedule_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit_Queue.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.assets_list_ui.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assets_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_To_Queue_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Assets_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.queues_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Packages_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.package_list.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Robot_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jobs_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Schedule.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Queues_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.run_action_bar.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule_Panel.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashscreen.resources
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\C#\Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_item_list2.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\Dapper.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\Dapper.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\Actimai Local Orchestrator\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.content_pop_up.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_item_list2.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.queue_items.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.failed_transactions_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_medium.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_data_info.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.jobs_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_small.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.robots_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.schedule_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit_Queue.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.assets_list_ui.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assets_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_To_Queue_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Assets_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.queues_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Packages_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.package_list.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Robot_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jobs_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Schedule.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Queues_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.run_action_bar.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule_Panel.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashscreen.resources
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\Dapper.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\Dapper.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\Actimai Local Orchestrato\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.content_pop_up.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_item_list2.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.queue_items.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.failed_transactions_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_medium.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_data_info.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.jobs_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_small.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.robots_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.schedule_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit_Queue.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.assets_list_ui.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assets_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_To_Queue_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Assets_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.queues_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Packages_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.package_list.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Robot_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jobs_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Schedule.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Queues_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.run_action_bar.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule_Panel.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashscreen.resources
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrato\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\Dapper.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\Dapper.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.content_pop_up.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_item_list2.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.queue_items.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.failed_transactions_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.logs_panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_medium.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.queue_data_info.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.jobs_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.pop_up_small.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Controller.robots_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Extras.schedule_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit_Queue.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.assets_list_ui.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assets_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_To_Queue_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Assets_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.queues_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Packages_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.package_list.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Robot_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jobs_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.New_Schedule.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Queues_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.run_action_bar.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule_Panel.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashscreen.resources
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\MD5.dll
+D:\Actimai Local Orchestrator (1)\WindowsFormsApp1\bin\Debug\MD5.pdb
